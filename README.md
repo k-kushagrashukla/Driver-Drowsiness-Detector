@@ -2,6 +2,12 @@
 Ever wished to prevent accidents before they happen ? That's what i have created Driver Drwsiness detctor. Basically a safety tool  that detects driver fatigue in real time!
 and hence this system helps in road safety
 
+![Screenshot 2025-04-09 141938](https://github.com/user-attachments/assets/161c273e-92ee-4301-9150-73288f70509a)
+
+![Screenshot 2025-04-09 141955](https://github.com/user-attachments/assets/015fd34a-9661-4d1a-8f80-fa5508ca46c0)
+
+
+
 ## Algorithms highlight
 - Used OpenCV library for image processing
   
